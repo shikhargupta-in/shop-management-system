@@ -1,1 +1,1 @@
-# shop-management-system
+# SHOP MANAGEMENT SYSTEM
